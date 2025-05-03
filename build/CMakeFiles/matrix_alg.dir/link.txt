@@ -1,0 +1,3 @@
+E:\AdministratorE\Administrator\bin\cmake.exe -E rm -f CMakeFiles\matrix_alg.dir/objects.a
+E:\AdministratorE\Administrator\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe qc CMakeFiles\matrix_alg.dir/objects.a @CMakeFiles\matrix_alg.dir\objects1.rsp
+E:\AdministratorE\Administrator\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\matrix_alg.dir/objects.a -Wl,--no-whole-archive -o matrix_alg.exe -Wl,--out-implib,libmatrix_alg.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\matrix_alg.dir\linkLibs.rsp

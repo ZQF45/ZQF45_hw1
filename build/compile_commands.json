@@ -1,0 +1,14 @@
+[
+{
+  "directory": "E:/AdministratorE/github/ZQF45_hw1/build",
+  "command": "E:\\AdministratorE\\Administrator\\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\\mingw64\\bin\\gcc.exe  @CMakeFiles/matrix_alg.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\matrix_alg.dir\\src\\algebra.c.obj -c E:\\AdministratorE\\github\\ZQF45_hw1\\src\\algebra.c",
+  "file": "E:/AdministratorE/github/ZQF45_hw1/src/algebra.c",
+  "output": "CMakeFiles/matrix_alg.dir/src/algebra.c.obj"
+},
+{
+  "directory": "E:/AdministratorE/github/ZQF45_hw1/build",
+  "command": "E:\\AdministratorE\\Administrator\\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\\mingw64\\bin\\gcc.exe  @CMakeFiles/matrix_alg.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\matrix_alg.dir\\src\\main.c.obj -c E:\\AdministratorE\\github\\ZQF45_hw1\\src\\main.c",
+  "file": "E:/AdministratorE/github/ZQF45_hw1/src/main.c",
+  "output": "CMakeFiles/matrix_alg.dir/src/main.c.obj"
+}
+]

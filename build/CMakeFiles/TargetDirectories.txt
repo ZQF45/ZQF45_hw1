@@ -1,2 +1,3 @@
-F:/zzy/code/algebra/build/CMakeFiles/edit_cache.dir
-F:/zzy/code/algebra/build/CMakeFiles/rebuild_cache.dir
+E:/AdministratorE/github/ZQF45_hw1/build/CMakeFiles/matrix_alg.dir
+E:/AdministratorE/github/ZQF45_hw1/build/CMakeFiles/edit_cache.dir
+E:/AdministratorE/github/ZQF45_hw1/build/CMakeFiles/rebuild_cache.dir
